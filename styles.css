@@ -40,3 +40,9 @@ p{
         opacity:0.5;
         height:200px;
     }
+      categoria-videos img:hover{
+          opacity:1.0;
+          border:3px plum;
+      }
+    categoria h2{
+        color:rgb(225, 42 , 228)
